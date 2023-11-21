@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Activity 5.1</string>
+    <string name="grant_access_for_a_seamless_experience_tap_below_to_enable_camera_storage_and_location_permissions">Grant access for a seamless experience! Tap below to enable camera, storage, and location permissions.</string>
+    <string name="grant_access_permissions">GRANT ACCESS PERMISSIONS</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="get_location">Get Location</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="permission_grantedsss">Permission Granted</string>
+    <string name="permission">Permission Granted</string>
+    <string name="access_storage">Access Storage</string>
+    <string name="takeapicture">Take a Picture</string>
+    <string name="take_a_pictures">Take a picture</string>
+    <string name="read_contacts">Read Contacts</string>
+    <string name="get_locations">Get Location</string>
+    <string name="all_permissions_granted">All Permissions Granted</string>
+    <string name="permission_not_granted">Permission Not Granted</string>
+    <string name="record_audio">Record Audio</string>
+</resources>
